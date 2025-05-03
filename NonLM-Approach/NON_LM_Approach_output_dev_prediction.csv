@@ -1,0 +1,301 @@
+,item,name,label,predict_label
+0,http://www.wikidata.org/entity/Q15786,1. FC Nürnberg,cultural representative,cultural exclusive
+1,http://www.wikidata.org/entity/Q268530,77 Records,cultural exclusive,cultural exclusive
+2,http://www.wikidata.org/entity/Q216153,A Bug's Life,cultural representative,cultural representative
+3,http://www.wikidata.org/entity/Q593,A Gang Story,cultural exclusive,cultural representative
+4,http://www.wikidata.org/entity/Q192185,Aaron Copland,cultural representative,cultural representative
+5,http://www.wikidata.org/entity/Q265890,Aarwangen Castle,cultural exclusive,cultural exclusive
+6,http://www.wikidata.org/entity/Q305718,abaya,cultural representative,cultural agnostic
+7,http://www.wikidata.org/entity/Q337267,Academy of San Carlos,cultural exclusive,cultural exclusive
+8,http://www.wikidata.org/entity/Q15,Africa,cultural representative,cultural representative
+9,http://www.wikidata.org/entity/Q388170,African American literature,cultural representative,cultural agnostic
+10,http://www.wikidata.org/entity/Q11453,agricultural irrigation,cultural agnostic,cultural agnostic
+11,http://www.wikidata.org/entity/Q11436,aircraft,cultural agnostic,cultural agnostic
+12,http://www.wikidata.org/entity/Q583479,Alcantara,cultural agnostic,cultural agnostic
+13,http://www.wikidata.org/entity/Q91717,alcazaba,cultural representative,cultural exclusive
+14,http://www.wikidata.org/entity/Q1453,Alexandra Stan,cultural representative,cultural representative
+15,http://www.wikidata.org/entity/Q9570,Amitabh Bachchan,cultural representative,cultural representative
+16,http://www.wikidata.org/entity/Q46392,Amjad Khan,cultural representative,cultural representative
+17,http://www.wikidata.org/entity/Q487265,Anasyrma,cultural representative,cultural exclusive
+18,http://www.wikidata.org/entity/Q25314,Angiosperms,cultural agnostic,cultural agnostic
+19,http://www.wikidata.org/entity/Q1107,anime,cultural representative,cultural agnostic
+20,http://www.wikidata.org/entity/Q27585,AOL,cultural exclusive,cultural exclusive
+21,http://www.wikidata.org/entity/Q192150,apéritif,cultural representative,cultural agnostic
+22,http://www.wikidata.org/entity/Q618238,Aperol,cultural representative,cultural exclusive
+23,http://www.wikidata.org/entity/Q207241,applied arts,cultural agnostic,cultural agnostic
+24,http://www.wikidata.org/entity/Q17045537,aragoto,cultural exclusive,cultural representative
+25,http://www.wikidata.org/entity/Q42973,architect,cultural agnostic,cultural agnostic
+26,http://www.wikidata.org/entity/Q3151019,architectural engineer,cultural agnostic,cultural agnostic
+27,http://www.wikidata.org/entity/Q45418,argan oil,cultural agnostic,cultural representative
+28,http://www.wikidata.org/entity/Q1792450,art historian,cultural agnostic,cultural agnostic
+29,http://www.wikidata.org/entity/Q11629,art of painting,cultural agnostic,cultural agnostic
+30,http://www.wikidata.org/entity/Q7066,atheism,cultural agnostic,cultural agnostic
+31,http://www.wikidata.org/entity/Q552300,"Baa, Baa, Black Sheep",cultural exclusive,cultural representative
+32,http://www.wikidata.org/entity/Q31444638,Baldegg railway station,cultural exclusive,cultural exclusive
+33,http://www.wikidata.org/entity/Q890297,Baltic song festivals,cultural representative,cultural exclusive
+34,http://www.wikidata.org/entity/Q6658,Bamboula,cultural representative,cultural agnostic
+35,http://www.wikidata.org/entity/Q807725,Barbarastollen underground archive,cultural exclusive,cultural exclusive
+36,http://www.wikidata.org/entity/Q353936,Baselland Transport,cultural exclusive,cultural exclusive
+37,http://www.wikidata.org/entity/Q66705,Bassecourt,cultural exclusive,cultural exclusive
+38,http://www.wikidata.org/entity/Q811389,Bauhaus Archive,cultural representative,cultural exclusive
+39,http://www.wikidata.org/entity/Q812609,Bayrisch Kraut,cultural representative,cultural representative
+40,http://www.wikidata.org/entity/Q815611,Biblioteca Ambrosiana,cultural exclusive,cultural exclusive
+41,http://www.wikidata.org/entity/Q11442,bicycle,cultural agnostic,cultural agnostic
+42,http://www.wikidata.org/entity/Q5173,Bilateria,cultural agnostic,cultural agnostic
+43,http://www.wikidata.org/entity/Q489,Bill Maher,cultural representative,cultural representative
+44,http://www.wikidata.org/entity/Q49759,bloc party,cultural agnostic,cultural agnostic
+45,http://www.wikidata.org/entity/Q3641631,boho-chic,cultural representative,cultural agnostic
+46,http://www.wikidata.org/entity/Q157906,Boomerang,cultural exclusive,cultural exclusive
+47,http://www.wikidata.org/entity/Q549322,bullfighter,cultural representative,cultural agnostic
+48,http://www.wikidata.org/entity/Q1132695,calico,cultural representative,cultural agnostic
+49,http://www.wikidata.org/entity/Q65997,Caliph,cultural representative,cultural agnostic
+50,http://www.wikidata.org/entity/Q5119,capital city,cultural agnostic,cultural agnostic
+51,http://www.wikidata.org/entity/Q584540,captain,cultural agnostic,cultural agnostic
+52,http://www.wikidata.org/entity/Q180449,carbatina,cultural representative,cultural agnostic
+53,http://www.wikidata.org/entity/Q410,Carl Sagan,cultural representative,cultural representative
+54,http://www.wikidata.org/entity/Q18240,carnivorous plant,cultural agnostic,cultural agnostic
+55,http://www.wikidata.org/entity/Q568286,cento,cultural exclusive,cultural representative
+56,http://www.wikidata.org/entity/Q154996,Charlottenburg Palace,cultural representative,cultural exclusive
+57,http://www.wikidata.org/entity/Q251672,Château Borély,cultural exclusive,cultural exclusive
+58,http://www.wikidata.org/entity/Q45982,Chittagong Kings,cultural exclusive,cultural exclusive
+59,http://www.wikidata.org/entity/Q1604035,Choc Stars,cultural exclusive,cultural representative
+60,http://www.wikidata.org/entity/Q222344,cinematographer,cultural agnostic,cultural agnostic
+61,http://www.wikidata.org/entity/Q118865,clarinetist,cultural agnostic,cultural agnostic
+62,http://www.wikidata.org/entity/Q265418,Classic Produktion Osnabrück,cultural exclusive,cultural exclusive
+63,http://www.wikidata.org/entity/Q11955,Club Deportivo Guadalajara,cultural exclusive,cultural exclusive
+64,http://www.wikidata.org/entity/Q280015,Colorado Gold Kings,cultural exclusive,cultural exclusive
+65,http://www.wikidata.org/entity/Q245068,comedian,cultural agnostic,cultural agnostic
+66,http://www.wikidata.org/entity/Q27773,common sole,cultural agnostic,cultural representative
+67,http://www.wikidata.org/entity/Q233591,communist party,cultural agnostic,cultural agnostic
+68,http://www.wikidata.org/entity/Q379282,community journalism,cultural agnostic,cultural agnostic
+69,http://www.wikidata.org/entity/Q36834,composer,cultural agnostic,cultural agnostic
+70,http://www.wikidata.org/entity/Q158852,conductor,cultural agnostic,cultural agnostic
+71,http://www.wikidata.org/entity/Q376596,courtship,cultural agnostic,cultural agnostic
+72,http://www.wikidata.org/entity/Q134426,crime comic,cultural agnostic,cultural agnostic
+73,http://www.wikidata.org/entity/Q506002,crosier,cultural representative,cultural agnostic
+74,http://www.wikidata.org/entity/Q172349,crown molding,cultural agnostic,cultural agnostic
+75,http://www.wikidata.org/entity/Q1142035,Crunchyroll,cultural representative,cultural representative
+76,http://www.wikidata.org/entity/Q597600,Cuban Institute of Radio and Television,cultural exclusive,cultural exclusive
+77,http://www.wikidata.org/entity/Q7367,Culicidae,cultural agnostic,cultural agnostic
+78,http://www.wikidata.org/entity/Q8690,Cultural Revolution,cultural representative,cultural representative
+79,http://www.wikidata.org/entity/Q247979,curia,cultural representative,cultural representative
+80,http://www.wikidata.org/entity/Q5203792,D. Rajarathinam,cultural exclusive,cultural exclusive
+81,http://www.wikidata.org/entity/Q11639,dance,cultural agnostic,cultural agnostic
+82,http://www.wikidata.org/entity/Q765,Dario Fo,cultural representative,cultural representative
+83,http://www.wikidata.org/entity/Q15647884,Dato Sri Tahir,cultural representative,cultural representative
+84,http://www.wikidata.org/entity/Q850794,dhoti,cultural exclusive,cultural agnostic
+85,http://www.wikidata.org/entity/Q430,dinosaur,cultural agnostic,cultural agnostic
+86,http://www.wikidata.org/entity/Q3290343,Dione Lucas,cultural exclusive,cultural representative
+87,http://www.wikidata.org/entity/Q130857,disc jockey,cultural agnostic,cultural agnostic
+88,http://www.wikidata.org/entity/Q2722359,Dnyaneshwari,cultural exclusive,cultural representative
+89,http://www.wikidata.org/entity/Q386854,drummer,cultural agnostic,cultural agnostic
+90,http://www.wikidata.org/entity/Q15964121,Ebikon railway station,cultural exclusive,cultural exclusive
+91,http://www.wikidata.org/entity/Q1350189,egyptologist,cultural agnostic,cultural agnostic
+92,http://www.wikidata.org/entity/Q367660,Eid Mubarak,cultural representative,cultural representative
+93,http://www.wikidata.org/entity/Q31444654,Emmenbrücke Gersag railway station,cultural exclusive,cultural exclusive
+94,http://www.wikidata.org/entity/Q1706696,engastration,cultural agnostic,cultural exclusive
+95,http://www.wikidata.org/entity/Q9465,ethics,cultural agnostic,cultural agnostic
+96,http://www.wikidata.org/entity/Q1371394,ethnographic film,cultural agnostic,cultural agnostic
+97,http://www.wikidata.org/entity/Q188907,etiquette,cultural agnostic,cultural agnostic
+98,http://www.wikidata.org/entity/Q46706,Eugène Ionesco,cultural representative,cultural representative
+99,http://www.wikidata.org/entity/Q387284,European comics,cultural representative,cultural agnostic
+100,http://www.wikidata.org/entity/Q24649,European political party,cultural representative,cultural agnostic
+101,http://www.wikidata.org/entity/Q38066,existentialism,cultural agnostic,cultural agnostic
+102,http://www.wikidata.org/entity/Q658371,extra,cultural agnostic,cultural agnostic
+103,http://www.wikidata.org/entity/Q693,fable,cultural agnostic,cultural agnostic
+104,http://www.wikidata.org/entity/Q699,fairy tale,cultural agnostic,cultural agnostic
+105,http://www.wikidata.org/entity/Q9764,flamenco,cultural representative,cultural representative
+106,http://www.wikidata.org/entity/Q62449,flat white,cultural representative,cultural representative
+107,http://www.wikidata.org/entity/Q36192,folklore,cultural agnostic,cultural agnostic
+108,http://www.wikidata.org/entity/Q1968,Formula One,cultural agnostic,cultural representative
+109,http://www.wikidata.org/entity/Q3102,Francis Coventry,cultural exclusive,cultural representative
+110,http://www.wikidata.org/entity/Q84629,Franz Ziehl,cultural exclusive,cultural exclusive
+111,http://www.wikidata.org/entity/Q6534,French Revolution,cultural representative,cultural representative
+112,http://www.wikidata.org/entity/Q764,fungi,cultural agnostic,cultural agnostic
+113,http://www.wikidata.org/entity/Q169325,Funimation,cultural representative,cultural representative
+114,http://www.wikidata.org/entity/Q618710,gauze,cultural agnostic,cultural agnostic
+115,http://www.wikidata.org/entity/Q3204,Geneva Open Challenger,cultural representative,cultural exclusive
+116,http://www.wikidata.org/entity/Q764233,geoponici,cultural representative,cultural agnostic
+117,http://www.wikidata.org/entity/Q3335,George Orwell,cultural representative,cultural representative
+118,http://www.wikidata.org/entity/Q1255562,Glasgow School,cultural representative,cultural representative
+119,http://www.wikidata.org/entity/Q172964,goalkeeper,cultural agnostic,cultural agnostic
+120,http://www.wikidata.org/entity/Q14924,golf ball retriever,cultural agnostic,cultural agnostic
+121,http://www.wikidata.org/entity/Q627325,graphic designer,cultural agnostic,cultural agnostic
+122,http://www.wikidata.org/entity/Q45594,greeting,cultural agnostic,cultural agnostic
+123,http://www.wikidata.org/entity/Q6663,hamburger,cultural representative,cultural agnostic
+124,http://www.wikidata.org/entity/Q655556,Heimatschutz Architecture,cultural representative,cultural agnostic
+125,http://www.wikidata.org/entity/Q23565,Hessischer Rundfunk,cultural exclusive,cultural exclusive
+126,http://www.wikidata.org/entity/Q51677,High Priest of Israel,cultural representative,cultural representative
+127,http://www.wikidata.org/entity/Q578269,HM Treasury,cultural exclusive,cultural exclusive
+128,http://www.wikidata.org/entity/Q65707,Horst P. Horst,cultural representative,cultural representative
+129,http://www.wikidata.org/entity/Q59243,Hyundai Motor Group,cultural representative,cultural exclusive
+130,http://www.wikidata.org/entity/Q132137,icon,cultural representative,cultural agnostic
+131,http://www.wikidata.org/entity/Q8538,Image Engine,cultural exclusive,cultural exclusive
+132,http://www.wikidata.org/entity/Q22865,independent city of Germany,cultural exclusive,cultural exclusive
+133,http://www.wikidata.org/entity/Q643996,Industrial Culture Handbook,cultural agnostic,cultural exclusive
+134,http://www.wikidata.org/entity/Q58968,intellectual,cultural agnostic,cultural agnostic
+135,http://www.wikidata.org/entity/Q3298,Intercontinental Champions' Supercup,cultural representative,cultural representative
+136,http://www.wikidata.org/entity/Q580340,Irish poetry,cultural representative,cultural agnostic
+137,http://www.wikidata.org/entity/Q400,Jenna Jameson,cultural exclusive,cultural representative
+138,http://www.wikidata.org/entity/Q161439,jewelry,cultural agnostic,cultural agnostic
+139,http://www.wikidata.org/entity/Q10940,jockstrap,cultural agnostic,cultural agnostic
+140,http://www.wikidata.org/entity/Q224644,Joe Kubert,cultural representative,cultural representative
+141,http://www.wikidata.org/entity/Q1294605,Jugendstil,cultural representative,cultural representative
+142,http://www.wikidata.org/entity/Q84405,Karl Landsteiner,cultural representative,cultural representative
+143,http://www.wikidata.org/entity/Q43416,Keanu Reeves,cultural representative,cultural representative
+144,http://www.wikidata.org/entity/Q80866,Khalifa,cultural representative,cultural representative
+145,http://www.wikidata.org/entity/Q2890234,Kinpira,cultural exclusive,cultural representative
+146,http://www.wikidata.org/entity/Q6418545,Kitty Foyle,cultural exclusive,cultural exclusive
+147,http://www.wikidata.org/entity/Q693461,KREEP,cultural agnostic,cultural agnostic
+148,http://www.wikidata.org/entity/Q489774,Kyobo Book Centre,cultural exclusive,cultural exclusive
+149,http://www.wikidata.org/entity/Q12494,ladyfinger,cultural representative,cultural representative
+150,http://www.wikidata.org/entity/Q284465,lectionary,cultural representative,cultural agnostic
+151,http://www.wikidata.org/entity/Q17563,Leonard Law,cultural exclusive,cultural exclusive
+152,http://www.wikidata.org/entity/Q3086695,Les Trois Accords,cultural exclusive,cultural representative
+153,http://www.wikidata.org/entity/Q493858,"Lions' Commentary on UNIX 6th Edition, with Source Code",cultural agnostic,cultural representative
+154,http://www.wikidata.org/entity/Q3257761,Loco Locass,cultural exclusive,cultural representative
+155,http://www.wikidata.org/entity/Q1133078,logographer,cultural agnostic,cultural agnostic
+156,http://www.wikidata.org/entity/Q84,London,cultural representative,cultural representative
+157,http://www.wikidata.org/entity/Q182357,lyric poetry,cultural agnostic,cultural agnostic
+158,http://www.wikidata.org/entity/Q48221,Malikism,cultural representative,cultural representative
+159,http://www.wikidata.org/entity/Q8274,manga,cultural representative,cultural representative
+160,http://www.wikidata.org/entity/Q131165,Manichaeism,cultural agnostic,cultural representative
+161,http://www.wikidata.org/entity/Q8362,manuscript illumination,cultural representative,cultural agnostic
+162,http://www.wikidata.org/entity/Q3281,Marit Paulsen,cultural exclusive,cultural representative
+163,http://www.wikidata.org/entity/Q11417,martial art,cultural agnostic,cultural agnostic
+164,http://www.wikidata.org/entity/Q98714302,master of the works,cultural agnostic,cultural agnostic
+165,http://www.wikidata.org/entity/Q162875,mausoleum,cultural agnostic,cultural agnostic
+166,http://www.wikidata.org/entity/Q257153,Mausoleum of Saladin,cultural exclusive,cultural exclusive
+167,http://www.wikidata.org/entity/Q76574,maypole,cultural representative,cultural agnostic
+168,http://www.wikidata.org/entity/Q2321,Mega-Łada Togliatti,cultural exclusive,cultural exclusive
+169,http://www.wikidata.org/entity/Q203827,Melbourne shuffle,cultural representative,cultural exclusive
+170,http://www.wikidata.org/entity/Q2185917,mennonites in Bolivia,cultural exclusive,cultural exclusive
+171,http://www.wikidata.org/entity/Q873,Meryl Streep,cultural representative,cultural representative
+172,http://www.wikidata.org/entity/Q3333382,mesocosm,cultural agnostic,cultural agnostic
+173,http://www.wikidata.org/entity/Q344299,Metro Istanbul,cultural exclusive,cultural exclusive
+174,http://www.wikidata.org/entity/Q5592,Michelangelo,cultural representative,cultural representative
+175,http://www.wikidata.org/entity/Q6836765,Michele Jolin,cultural exclusive,cultural exclusive
+176,http://www.wikidata.org/entity/Q220011,Mike DeCarlo,cultural exclusive,cultural representative
+177,http://www.wikidata.org/entity/Q835,Mikhail Bulgakov,cultural representative,cultural representative
+178,http://www.wikidata.org/entity/Q1750272,milk bar,cultural agnostic,cultural agnostic
+179,http://www.wikidata.org/entity/Q674067,mime artist,cultural agnostic,cultural agnostic
+180,http://www.wikidata.org/entity/Q1628649,Minhag,cultural exclusive,cultural exclusive
+181,http://www.wikidata.org/entity/Q460039,Mixed team,cultural agnostic,cultural representative
+182,http://www.wikidata.org/entity/Q687,Molière,cultural representative,cultural representative
+183,http://www.wikidata.org/entity/Q429088,mons,cultural agnostic,cultural agnostic
+184,http://www.wikidata.org/entity/Q23402,Musée d'Orsay,cultural representative,cultural representative
+185,http://www.wikidata.org/entity/Q2743,musical,cultural agnostic,cultural agnostic
+186,http://www.wikidata.org/entity/Q229724,Naoko Takeuchi,cultural representative,cultural representative
+187,http://www.wikidata.org/entity/Q616753,Naryshkin Baroque,cultural representative,cultural representative
+188,http://www.wikidata.org/entity/Q479102,National Festival of Polish Song in Opole,cultural exclusive,cultural exclusive
+189,http://www.wikidata.org/entity/Q56000,naturalism,cultural agnostic,cultural agnostic
+190,http://www.wikidata.org/entity/Q194285,Nebula Award,cultural exclusive,cultural exclusive
+191,http://www.wikidata.org/entity/Q25648,New York Film Festival,cultural representative,cultural exclusive
+192,http://www.wikidata.org/entity/Q264238,newsletter,cultural agnostic,cultural agnostic
+193,http://www.wikidata.org/entity/Q265169,Nitro Records,cultural exclusive,cultural exclusive
+194,http://www.wikidata.org/entity/Q518390,nod,cultural agnostic,cultural agnostic
+195,http://www.wikidata.org/entity/Q1377546,nunsploitation,cultural representative,cultural representative
+196,http://www.wikidata.org/entity/Q216929,Oliver & Company,cultural representative,cultural representative
+197,http://www.wikidata.org/entity/Q2425502,onnagata,cultural exclusive,cultural agnostic
+198,http://www.wikidata.org/entity/Q1344,opera,cultural representative,cultural agnostic
+199,http://www.wikidata.org/entity/Q1772945,Opera dei Pupi,cultural exclusive,cultural representative
+200,http://www.wikidata.org/entity/Q470137,original English-language manga,cultural representative,cultural agnostic
+201,http://www.wikidata.org/entity/Q43091,orthography,cultural agnostic,cultural agnostic
+202,http://www.wikidata.org/entity/Q27207,Osteichthyes,cultural agnostic,cultural agnostic
+203,http://www.wikidata.org/entity/Q29536,paganism,cultural representative,cultural agnostic
+204,http://www.wikidata.org/entity/Q182370,paint-on-glass animation,cultural agnostic,cultural agnostic
+205,http://www.wikidata.org/entity/Q130898,Palace of Iturbide,cultural representative,cultural exclusive
+206,http://www.wikidata.org/entity/Q7845,pataphysics,cultural representative,cultural agnostic
+207,http://www.wikidata.org/entity/Q557,Patti Smith,cultural representative,cultural representative
+208,http://www.wikidata.org/entity/Q272,Paul Morand,cultural representative,cultural representative
+209,http://www.wikidata.org/entity/Q84809,Peter Schuster,cultural exclusive,cultural representative
+210,http://www.wikidata.org/entity/Q23407,philosophy of mind,cultural agnostic,cultural agnostic
+211,http://www.wikidata.org/entity/Q551835,physician writer,cultural agnostic,cultural agnostic
+212,http://www.wikidata.org/entity/Q486748,pianist,cultural agnostic,cultural agnostic
+213,http://www.wikidata.org/entity/Q7194764,pin and hanger assembly,cultural agnostic,cultural exclusive
+214,http://www.wikidata.org/entity/Q2095595,Pinewood Toronto Studios,cultural exclusive,cultural exclusive
+215,http://www.wikidata.org/entity/Q12024,Pinus,cultural agnostic,cultural agnostic
+216,http://www.wikidata.org/entity/Q127552,Pixar,cultural representative,cultural representative
+217,http://www.wikidata.org/entity/Q200751,pixilation,cultural agnostic,cultural agnostic
+218,http://www.wikidata.org/entity/Q756,plant,cultural agnostic,cultural agnostic
+219,http://www.wikidata.org/entity/Q3307548,Po,cultural representative,cultural representative
+220,http://www.wikidata.org/entity/Q19546,pope,cultural representative,cultural agnostic
+221,http://www.wikidata.org/entity/Q27114292,posting style,cultural agnostic,cultural agnostic
+222,http://www.wikidata.org/entity/Q30461,president,cultural agnostic,cultural agnostic
+223,http://www.wikidata.org/entity/Q38817,Prishtina International Film Festival,cultural exclusive,cultural exclusive
+224,http://www.wikidata.org/entity/Q10892,protist,cultural agnostic,cultural agnostic
+225,http://www.wikidata.org/entity/Q12516,pyramid,cultural agnostic,cultural agnostic
+226,http://www.wikidata.org/entity/Q434,Pyrus,cultural agnostic,cultural agnostic
+227,http://www.wikidata.org/entity/Q41800,Raquel Argandoña,cultural exclusive,cultural representative
+228,http://www.wikidata.org/entity/Q4692,Renaissance,cultural representative,cultural agnostic
+229,http://www.wikidata.org/entity/Q11707,restaurant,cultural agnostic,cultural agnostic
+230,http://www.wikidata.org/entity/Q66854,Rietheim,cultural exclusive,cultural exclusive
+231,http://www.wikidata.org/entity/Q383845,rigaudon,cultural exclusive,cultural agnostic
+232,http://www.wikidata.org/entity/Q66768,Rossens,cultural exclusive,cultural exclusive
+233,http://www.wikidata.org/entity/Q18702,Royal free city,cultural exclusive,cultural agnostic
+234,http://www.wikidata.org/entity/Q54829,RTVE,cultural exclusive,cultural representative
+235,http://www.wikidata.org/entity/Q172582,Sahitya Akademi Award,cultural exclusive,cultural exclusive
+236,http://www.wikidata.org/entity/Q1509703,Saintonge,cultural exclusive,cultural exclusive
+237,http://www.wikidata.org/entity/Q11122366,sandalwood,cultural agnostic,cultural agnostic
+238,http://www.wikidata.org/entity/Q25814,seed plant,cultural agnostic,cultural agnostic
+239,http://www.wikidata.org/entity/Q237338,seinen,cultural representative,cultural representative
+240,http://www.wikidata.org/entity/Q145234,Seiun Awards,cultural exclusive,cultural exclusive
+241,http://www.wikidata.org/entity/Q15761,servus,cultural representative,cultural exclusive
+242,http://www.wikidata.org/entity/Q1503157,Shakespeare and Company,cultural representative,cultural exclusive
+243,http://www.wikidata.org/entity/Q7372,shark,cultural agnostic,cultural agnostic
+244,http://www.wikidata.org/entity/Q211367,sheet metal,cultural agnostic,cultural agnostic
+245,http://www.wikidata.org/entity/Q2278256,Shepperton Studios,cultural exclusive,cultural exclusive
+246,http://www.wikidata.org/entity/Q231302,shōnen,cultural representative,cultural representative
+247,http://www.wikidata.org/entity/Q23589,Showtime,cultural exclusive,cultural representative
+248,http://www.wikidata.org/entity/Q340709,shrug,cultural agnostic,cultural agnostic
+249,http://www.wikidata.org/entity/Q737377,Singer House,cultural representative,cultural exclusive
+250,http://www.wikidata.org/entity/Q139932,single whip law,cultural exclusive,cultural representative
+251,http://www.wikidata.org/entity/Q124619225,Siuuu,cultural representative,cultural exclusive
+252,http://www.wikidata.org/entity/Q15783,skateboard,cultural agnostic,cultural agnostic
+253,http://www.wikidata.org/entity/Q1661080,small press,cultural agnostic,cultural agnostic
+254,http://www.wikidata.org/entity/Q17084639,socks and sandals,cultural agnostic,cultural agnostic
+255,http://www.wikidata.org/entity/Q7554349,software publisher,cultural agnostic,cultural agnostic
+256,http://www.wikidata.org/entity/Q178406,solo dance,cultural agnostic,cultural agnostic
+257,http://www.wikidata.org/entity/Q359293,Soo Line Railroad,cultural exclusive,cultural exclusive
+258,http://www.wikidata.org/entity/Q884,South Korea,cultural representative,cultural representative
+259,http://www.wikidata.org/entity/Q236913,space rock,cultural representative,cultural representative
+260,http://www.wikidata.org/entity/Q27185,Stone Bell House,cultural exclusive,cultural exclusive
+261,http://www.wikidata.org/entity/Q6539,Storming of the Bastille,cultural representative,cultural exclusive
+262,http://www.wikidata.org/entity/Q182361,Studio 4°C,cultural exclusive,cultural exclusive
+263,http://www.wikidata.org/entity/Q465501,stunt performer,cultural agnostic,cultural agnostic
+264,http://www.wikidata.org/entity/Q1140845,subterranean river,cultural agnostic,cultural agnostic
+265,http://www.wikidata.org/entity/Q9603,Sufism,cultural representative,cultural representative
+266,http://www.wikidata.org/entity/Q1365,Swept Away,cultural representative,cultural representative
+267,http://www.wikidata.org/entity/Q11254,table salt,cultural agnostic,cultural agnostic
+268,http://www.wikidata.org/entity/Q2465121,Tajikfilm,cultural exclusive,cultural exclusive
+269,http://www.wikidata.org/entity/Q7679703,Talk to Me,cultural exclusive,cultural exclusive
+270,http://www.wikidata.org/entity/Q1568338,technical writer,cultural agnostic,cultural agnostic
+271,http://www.wikidata.org/entity/Q7696211,Telegram style,cultural agnostic,cultural agnostic
+272,http://www.wikidata.org/entity/Q674413,tell,cultural agnostic,cultural agnostic
+273,http://www.wikidata.org/entity/Q175122,terrestrial television,cultural agnostic,cultural agnostic
+274,http://www.wikidata.org/entity/Q595,The Intouchables,cultural representative,cultural representative
+275,http://www.wikidata.org/entity/Q270844,The World,cultural representative,cultural exclusive
+276,http://www.wikidata.org/entity/Q1074069,tidal river,cultural agnostic,cultural agnostic
+277,http://www.wikidata.org/entity/Q187120,time shifting,cultural agnostic,cultural agnostic
+278,http://www.wikidata.org/entity/Q3267562,Tina Nordström,cultural representative,cultural representative
+279,http://www.wikidata.org/entity/Q685935,trade magazine,cultural agnostic,cultural agnostic
+280,http://www.wikidata.org/entity/Q184781,traditional animation,cultural agnostic,cultural agnostic
+281,http://www.wikidata.org/entity/Q235858,traditional folk music,cultural agnostic,cultural agnostic
+282,http://www.wikidata.org/entity/Q870,train,cultural agnostic,cultural agnostic
+283,http://www.wikidata.org/entity/Q28543,transport in Hungary,cultural agnostic,cultural agnostic
+284,http://www.wikidata.org/entity/Q479716,university press,cultural agnostic,cultural agnostic
+285,http://www.wikidata.org/entity/Q13178,Vaccinium sect. Cyanococcus,cultural agnostic,cultural agnostic
+286,http://www.wikidata.org/entity/Q194363,Vaslav Nijinsky,cultural representative,cultural representative
+287,http://www.wikidata.org/entity/Q49024,Venice Film Festival,cultural representative,cultural representative
+288,http://www.wikidata.org/entity/Q8072,volcano,cultural agnostic,cultural agnostic
+289,http://www.wikidata.org/entity/Q246,Volkswagen,cultural representative,cultural representative
+290,http://www.wikidata.org/entity/Q177764,Voodoo Church,cultural representative,cultural agnostic
+291,http://www.wikidata.org/entity/Q375,waffle,cultural representative,cultural agnostic
+292,http://www.wikidata.org/entity/Q59183,Wanderer,cultural exclusive,cultural exclusive
+293,http://www.wikidata.org/entity/Q911871,wilderness,cultural agnostic,cultural agnostic
+294,http://www.wikidata.org/entity/Q1552567,wolf pit,cultural agnostic,cultural agnostic
+295,http://www.wikidata.org/entity/Q36180,writer,cultural agnostic,cultural agnostic
+296,http://www.wikidata.org/entity/Q156316,Würzburg Residence,cultural representative,cultural exclusive
+297,http://www.wikidata.org/entity/Q56911,xunfu,cultural exclusive,cultural exclusive
+298,http://www.wikidata.org/entity/Q377,Yanka Kupala,cultural representative,cultural representative
+299,http://www.wikidata.org/entity/Q615394,Yếm,cultural exclusive,cultural exclusive

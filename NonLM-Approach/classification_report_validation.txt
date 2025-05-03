@@ -1,19 +1,9 @@
                          precision    recall  f1-score   support
 
-<<<<<<< HEAD
-      cultural agnostic       0.96      0.67      0.79       166
-cultural representative       0.36      0.81      0.49        47
-     cultural exclusive       0.78      0.68      0.72        87
+      cultural agnostic       0.92      0.77      0.84       141
+cultural representative       0.55      0.69      0.61        85
+     cultural exclusive       0.68      0.70      0.69        74
 
-               accuracy                           0.70       300
-              macro avg       0.70      0.72      0.67       300
-           weighted avg       0.81      0.70      0.73       300
-=======
-      cultural agnostic       0.96      0.67      0.79       168
-cultural representative       0.36      0.78      0.49        49
-     cultural exclusive       0.74      0.67      0.70        83
-
-               accuracy                           0.69       300
-              macro avg       0.68      0.71      0.66       300
-           weighted avg       0.80      0.69      0.71       300
->>>>>>> 9f842cea7d1efa40af5b5fae6ed22abaf709a78b
+               accuracy                           0.73       300
+              macro avg       0.72      0.72      0.72       300
+           weighted avg       0.76      0.73      0.74       300
