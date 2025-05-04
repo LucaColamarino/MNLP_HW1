@@ -8,7 +8,7 @@
 6,http://www.wikidata.org/entity/Q19081,prokaryotes,cultural agnostic
 7,http://www.wikidata.org/entity/Q474090,narrative poetry,cultural agnostic
 8,http://www.wikidata.org/entity/Q1266300,Neue Slowenische Kunst,cultural representative
-9,http://www.wikidata.org/entity/Q193654,short-track speed skating,cultural agnostic
+9,http://www.wikidata.org/entity/Q193654,short-track speed skating,cultural representative
 10,http://www.wikidata.org/entity/Q372,We Live in Public,cultural representative
 11,http://www.wikidata.org/entity/Q820887,University of Florence,cultural exclusive
 12,http://www.wikidata.org/entity/Q503269,seamount,cultural agnostic
@@ -57,7 +57,7 @@
 55,http://www.wikidata.org/entity/Q438464,alternative comics,cultural agnostic
 56,http://www.wikidata.org/entity/Q55439,panel painting,cultural agnostic
 57,http://www.wikidata.org/entity/Q1650915,researcher,cultural agnostic
-58,http://www.wikidata.org/entity/Q2250579,Shu'ubiyya,cultural agnostic
+58,http://www.wikidata.org/entity/Q2250579,Shu'ubiyya,cultural representative
 59,http://www.wikidata.org/entity/Q177220,singer,cultural agnostic
 60,http://www.wikidata.org/entity/Q47520669,diplomatician,cultural agnostic
 61,http://www.wikidata.org/entity/Q182950,Studio Ghibli,cultural representative
@@ -66,7 +66,7 @@
 64,http://www.wikidata.org/entity/Q62855,Alexander Braun,cultural representative
 65,http://www.wikidata.org/entity/Q254907,genrō,cultural exclusive
 66,http://www.wikidata.org/entity/Q591942,distributary,cultural agnostic
-67,http://www.wikidata.org/entity/Q942219,kanga,cultural agnostic
+67,http://www.wikidata.org/entity/Q942219,kanga,cultural representative
 68,http://www.wikidata.org/entity/Q178671,Theosophy,cultural agnostic
 69,http://www.wikidata.org/entity/Q890057,body modification,cultural agnostic
 70,http://www.wikidata.org/entity/Q6839890,Microphotography,cultural agnostic
@@ -101,7 +101,7 @@
 99,http://www.wikidata.org/entity/Q5194627,Lilium,cultural agnostic
 100,http://www.wikidata.org/entity/Q3364870,rangeland,cultural agnostic
 101,http://www.wikidata.org/entity/Q84199,Michael Haneke,cultural representative
-102,http://www.wikidata.org/entity/Q244630,Two-Rhythm Dance,cultural representative
+102,http://www.wikidata.org/entity/Q244630,Two-Rhythm Dance,cultural exclusive
 103,http://www.wikidata.org/entity/Q172336,chokehold,cultural agnostic
 104,http://www.wikidata.org/entity/Q184452,cable television,cultural agnostic
 105,http://www.wikidata.org/entity/Q911043,cross-laminated timber,cultural agnostic
@@ -116,7 +116,7 @@
 114,http://www.wikidata.org/entity/Q593216,Constantijn Huygens Prize,cultural exclusive
 115,http://www.wikidata.org/entity/Q1323870,El Ateneo Grand Splendid,cultural exclusive
 116,http://www.wikidata.org/entity/Q19088,eukaryote,cultural agnostic
-117,http://www.wikidata.org/entity/Q252120,Ottoman poetry,cultural representative
+117,http://www.wikidata.org/entity/Q252120,Ottoman poetry,cultural exclusive
 118,http://www.wikidata.org/entity/Q1307909,ligne claire,cultural exclusive
 119,http://www.wikidata.org/entity/Q392409,freediving,cultural agnostic
 120,http://www.wikidata.org/entity/Q24075,Godzilla,cultural representative
@@ -124,7 +124,7 @@
 122,http://www.wikidata.org/entity/Q502899,outlier,cultural agnostic
 123,http://www.wikidata.org/entity/Q133442,city-state,cultural agnostic
 124,http://www.wikidata.org/entity/Q25243,Betula,cultural agnostic
-125,http://www.wikidata.org/entity/Q352664,adat,cultural agnostic
+125,http://www.wikidata.org/entity/Q352664,adat,cultural representative
 126,http://www.wikidata.org/entity/Q152311,naturism,cultural agnostic
 127,http://www.wikidata.org/entity/Q42745,Rita Hayworth,cultural representative
 128,http://www.wikidata.org/entity/Q616358,Prairie School architecture,cultural representative
@@ -145,7 +145,7 @@
 143,http://www.wikidata.org/entity/Q1280834,Bible society,cultural representative
 144,http://www.wikidata.org/entity/Q59281,transitional government,cultural agnostic
 145,http://www.wikidata.org/entity/Q1192,Jean-Baptiste Lully,cultural representative
-146,http://www.wikidata.org/entity/Q188116,Fourteenth Amendment to the United States Constitution,cultural representative
+146,http://www.wikidata.org/entity/Q188116,Fourteenth Amendment to the United States Constitution,cultural exclusive
 147,http://www.wikidata.org/entity/Q6784637,Massie Wireless Station,cultural exclusive
 148,http://www.wikidata.org/entity/Q2519376,jewelry designer,cultural agnostic
 149,http://www.wikidata.org/entity/Q66626,Hornussen,cultural exclusive
@@ -171,22 +171,22 @@
 169,http://www.wikidata.org/entity/Q183945,record producer,cultural agnostic
 170,http://www.wikidata.org/entity/Q60233168,political historian,cultural agnostic
 171,http://www.wikidata.org/entity/Q197069,Zexcs,cultural exclusive
-172,http://www.wikidata.org/entity/Q670265,Eisteddfod,cultural agnostic
+172,http://www.wikidata.org/entity/Q670265,Eisteddfod,cultural exclusive
 173,http://www.wikidata.org/entity/Q15964235,Emmenbrücke Kapf railway station,cultural exclusive
 174,http://www.wikidata.org/entity/Q63036,Eduard Oscar Schmidt,cultural representative
 175,http://www.wikidata.org/entity/Q225907,professional revolutionary,cultural agnostic
 176,http://www.wikidata.org/entity/Q794428,entrenched river,cultural agnostic
 177,http://www.wikidata.org/entity/Q874265,Stump sock,cultural agnostic
 178,http://www.wikidata.org/entity/Q183308,New Age,cultural agnostic
-179,http://www.wikidata.org/entity/Q11046554,tapu,cultural agnostic
-180,http://www.wikidata.org/entity/Q4835874,BLUF,cultural representative
+179,http://www.wikidata.org/entity/Q11046554,tapu,cultural exclusive
+180,http://www.wikidata.org/entity/Q4835874,BLUF,cultural exclusive
 181,http://www.wikidata.org/entity/Q3565221,Wakanim,cultural exclusive
 182,http://www.wikidata.org/entity/Q25326,Mollusca,cultural agnostic
 183,http://www.wikidata.org/entity/Q766570,Political parties in Russia,cultural exclusive
 184,http://www.wikidata.org/entity/Q3015646,Australian dance,cultural exclusive
 185,http://www.wikidata.org/entity/Q49112,Yale University,cultural representative
 186,http://www.wikidata.org/entity/Q895818,boy player,cultural agnostic
-187,http://www.wikidata.org/entity/Q6415061,jajim,cultural representative
+187,http://www.wikidata.org/entity/Q6415061,jajim,cultural exclusive
 188,http://www.wikidata.org/entity/Q1352102,Free Cinema,cultural representative
 189,http://www.wikidata.org/entity/Q579021,perfumer,cultural agnostic
 190,http://www.wikidata.org/entity/Q473743,environmental art,cultural agnostic
@@ -196,7 +196,7 @@
 194,http://www.wikidata.org/entity/Q49845,mail,cultural agnostic
 195,http://www.wikidata.org/entity/Q10957,Lumière Festival,cultural exclusive
 196,http://www.wikidata.org/entity/Q59182,Wikov,cultural exclusive
-197,http://www.wikidata.org/entity/Q3621561,starchitect,cultural agnostic
+197,http://www.wikidata.org/entity/Q3621561,starchitect,cultural exclusive
 198,http://www.wikidata.org/entity/Q5503619,fried eggplant,cultural agnostic
 199,http://www.wikidata.org/entity/Q5300093,double steaming,cultural agnostic
 200,http://www.wikidata.org/entity/Q478804,children's anime and manga,cultural agnostic
@@ -265,7 +265,7 @@
 263,http://www.wikidata.org/entity/Q1130359,loincloth,cultural agnostic
 264,http://www.wikidata.org/entity/Q252800,Abbot's Palace (Oliwa),cultural exclusive
 265,http://www.wikidata.org/entity/Q4447,Despicable Me,cultural representative
-266,http://www.wikidata.org/entity/Q1615950,Weihnachtsmärchen,cultural representative
+266,http://www.wikidata.org/entity/Q1615950,Weihnachtsmärchen,cultural exclusive
 267,http://www.wikidata.org/entity/Q3292396,Marie Bourgeois,cultural exclusive
 268,http://www.wikidata.org/entity/Q53045,Giuseppe Tornatore,cultural representative
 269,http://www.wikidata.org/entity/Q969772,Free agent,cultural agnostic

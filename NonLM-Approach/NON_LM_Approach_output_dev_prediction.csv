@@ -11,19 +11,19 @@
 9,http://www.wikidata.org/entity/Q388170,African American literature,cultural representative,cultural agnostic
 10,http://www.wikidata.org/entity/Q11453,agricultural irrigation,cultural agnostic,cultural agnostic
 11,http://www.wikidata.org/entity/Q11436,aircraft,cultural agnostic,cultural agnostic
-12,http://www.wikidata.org/entity/Q583479,Alcantara,cultural agnostic,cultural agnostic
+12,http://www.wikidata.org/entity/Q583479,Alcantara,cultural agnostic,cultural exclusive
 13,http://www.wikidata.org/entity/Q91717,alcazaba,cultural representative,cultural exclusive
 14,http://www.wikidata.org/entity/Q1453,Alexandra Stan,cultural representative,cultural representative
 15,http://www.wikidata.org/entity/Q9570,Amitabh Bachchan,cultural representative,cultural representative
 16,http://www.wikidata.org/entity/Q46392,Amjad Khan,cultural representative,cultural representative
 17,http://www.wikidata.org/entity/Q487265,Anasyrma,cultural representative,cultural exclusive
 18,http://www.wikidata.org/entity/Q25314,Angiosperms,cultural agnostic,cultural agnostic
-19,http://www.wikidata.org/entity/Q1107,anime,cultural representative,cultural agnostic
+19,http://www.wikidata.org/entity/Q1107,anime,cultural representative,cultural representative
 20,http://www.wikidata.org/entity/Q27585,AOL,cultural exclusive,cultural exclusive
 21,http://www.wikidata.org/entity/Q192150,apéritif,cultural representative,cultural agnostic
 22,http://www.wikidata.org/entity/Q618238,Aperol,cultural representative,cultural exclusive
 23,http://www.wikidata.org/entity/Q207241,applied arts,cultural agnostic,cultural agnostic
-24,http://www.wikidata.org/entity/Q17045537,aragoto,cultural exclusive,cultural representative
+24,http://www.wikidata.org/entity/Q17045537,aragoto,cultural exclusive,cultural exclusive
 25,http://www.wikidata.org/entity/Q42973,architect,cultural agnostic,cultural agnostic
 26,http://www.wikidata.org/entity/Q3151019,architectural engineer,cultural agnostic,cultural agnostic
 27,http://www.wikidata.org/entity/Q45418,argan oil,cultural agnostic,cultural representative
@@ -117,12 +117,12 @@
 115,http://www.wikidata.org/entity/Q3204,Geneva Open Challenger,cultural representative,cultural exclusive
 116,http://www.wikidata.org/entity/Q764233,geoponici,cultural representative,cultural agnostic
 117,http://www.wikidata.org/entity/Q3335,George Orwell,cultural representative,cultural representative
-118,http://www.wikidata.org/entity/Q1255562,Glasgow School,cultural representative,cultural representative
+118,http://www.wikidata.org/entity/Q1255562,Glasgow School,cultural representative,cultural exclusive
 119,http://www.wikidata.org/entity/Q172964,goalkeeper,cultural agnostic,cultural agnostic
 120,http://www.wikidata.org/entity/Q14924,golf ball retriever,cultural agnostic,cultural agnostic
 121,http://www.wikidata.org/entity/Q627325,graphic designer,cultural agnostic,cultural agnostic
 122,http://www.wikidata.org/entity/Q45594,greeting,cultural agnostic,cultural agnostic
-123,http://www.wikidata.org/entity/Q6663,hamburger,cultural representative,cultural agnostic
+123,http://www.wikidata.org/entity/Q6663,hamburger,cultural representative,cultural representative
 124,http://www.wikidata.org/entity/Q655556,Heimatschutz Architecture,cultural representative,cultural agnostic
 125,http://www.wikidata.org/entity/Q23565,Hessischer Rundfunk,cultural exclusive,cultural exclusive
 126,http://www.wikidata.org/entity/Q51677,High Priest of Israel,cultural representative,cultural representative
@@ -134,7 +134,7 @@
 132,http://www.wikidata.org/entity/Q22865,independent city of Germany,cultural exclusive,cultural exclusive
 133,http://www.wikidata.org/entity/Q643996,Industrial Culture Handbook,cultural agnostic,cultural exclusive
 134,http://www.wikidata.org/entity/Q58968,intellectual,cultural agnostic,cultural agnostic
-135,http://www.wikidata.org/entity/Q3298,Intercontinental Champions' Supercup,cultural representative,cultural representative
+135,http://www.wikidata.org/entity/Q3298,Intercontinental Champions' Supercup,cultural representative,cultural exclusive
 136,http://www.wikidata.org/entity/Q580340,Irish poetry,cultural representative,cultural agnostic
 137,http://www.wikidata.org/entity/Q400,Jenna Jameson,cultural exclusive,cultural representative
 138,http://www.wikidata.org/entity/Q161439,jewelry,cultural agnostic,cultural agnostic
@@ -230,7 +230,7 @@
 228,http://www.wikidata.org/entity/Q4692,Renaissance,cultural representative,cultural agnostic
 229,http://www.wikidata.org/entity/Q11707,restaurant,cultural agnostic,cultural agnostic
 230,http://www.wikidata.org/entity/Q66854,Rietheim,cultural exclusive,cultural exclusive
-231,http://www.wikidata.org/entity/Q383845,rigaudon,cultural exclusive,cultural agnostic
+231,http://www.wikidata.org/entity/Q383845,rigaudon,cultural exclusive,cultural representative
 232,http://www.wikidata.org/entity/Q66768,Rossens,cultural exclusive,cultural exclusive
 233,http://www.wikidata.org/entity/Q18702,Royal free city,cultural exclusive,cultural agnostic
 234,http://www.wikidata.org/entity/Q54829,RTVE,cultural exclusive,cultural representative
@@ -249,7 +249,7 @@
 247,http://www.wikidata.org/entity/Q23589,Showtime,cultural exclusive,cultural representative
 248,http://www.wikidata.org/entity/Q340709,shrug,cultural agnostic,cultural agnostic
 249,http://www.wikidata.org/entity/Q737377,Singer House,cultural representative,cultural exclusive
-250,http://www.wikidata.org/entity/Q139932,single whip law,cultural exclusive,cultural representative
+250,http://www.wikidata.org/entity/Q139932,single whip law,cultural exclusive,cultural exclusive
 251,http://www.wikidata.org/entity/Q124619225,Siuuu,cultural representative,cultural exclusive
 252,http://www.wikidata.org/entity/Q15783,skateboard,cultural agnostic,cultural agnostic
 253,http://www.wikidata.org/entity/Q1661080,small press,cultural agnostic,cultural agnostic
@@ -282,7 +282,7 @@
 280,http://www.wikidata.org/entity/Q184781,traditional animation,cultural agnostic,cultural agnostic
 281,http://www.wikidata.org/entity/Q235858,traditional folk music,cultural agnostic,cultural agnostic
 282,http://www.wikidata.org/entity/Q870,train,cultural agnostic,cultural agnostic
-283,http://www.wikidata.org/entity/Q28543,transport in Hungary,cultural agnostic,cultural agnostic
+283,http://www.wikidata.org/entity/Q28543,transport in Hungary,cultural agnostic,cultural exclusive
 284,http://www.wikidata.org/entity/Q479716,university press,cultural agnostic,cultural agnostic
 285,http://www.wikidata.org/entity/Q13178,Vaccinium sect. Cyanococcus,cultural agnostic,cultural agnostic
 286,http://www.wikidata.org/entity/Q194363,Vaslav Nijinsky,cultural representative,cultural representative
